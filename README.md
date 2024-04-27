@@ -62,6 +62,8 @@ RegisterNumber:212222240047
 
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
+
 ![Screenshot 2024-04-27 104352](https://github.com/karthiksec/ENCODER8TO3DATAFLOW/assets/147473368/f1aa0c32-6156-4fcf-a26d-a2632aff4eab)
 
 
